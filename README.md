@@ -17,11 +17,11 @@ Here is an immplementation of Process Scheduling algorithm in operating systems.
 When you run the project The Main Window will appear and you will choose what is the desired Algorithm to Run
 ![](report%20screen%20shots/mainProject1.PNG)
  
- Then you should enter the nober of process  , prcess ID  , prcess Burst time and prcess Arrival time 
+ Then you should enter the number of process  , prcess ID  , prcess Burst time and prcess Arrival time 
  
  ![](report%20screen%20shots/SJFPre.PNG)
  
- Then click simulat botton , the program wil show the average waiting time and the Gantt Chart for Running Process
+ Then click simulat botton , the program will show the average waiting time and the Gantt Chart for Running Process
  
   ![](report%20screen%20shots/running.PNG)
   
